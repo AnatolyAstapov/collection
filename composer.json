@@ -23,7 +23,7 @@
         "source": "https://github.com/cakephp/collection"
     },
     "require": {
-        "php": "^5",
+        "php": "^5|^7.0",
         "ext-json": "*"
     },
     "require-dev": {
