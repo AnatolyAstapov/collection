@@ -1,4 +1,4 @@
-# CakePHP Collection Library port for PHP 5
+# CakePHP Collection Library port for PHP 5,7,8
 
 The collection classes provide a set of tools to manipulate arrays or Traversable objects.
 If you have ever used underscore.js, you have an idea of what you can expect from the collection classes.
